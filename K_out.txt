@@ -1,0 +1,27 @@
+     cap-shape cap-surface cap-color bruises%3F odor gill-attachment gill-spacing  ... veil-type veil-color ring-number ring-type spore-print-color population habitat
+0            x           s         n          t    p               f            c  ...         p          w           o         p                 k          s       u
+1            x           s         y          t    a               f            c  ...         p          w           o         p                 n          n       g
+2            b           s         w          t    l               f            c  ...         p          w           o         p                 n          n       m
+3            x           y         w          t    p               f            c  ...         p          w           o         p                 k          s       u
+4            x           s         g          f    n               f            w  ...         p          w           o         e                 n          a       g
+...        ...         ...       ...        ...  ...             ...          ...  ...       ...        ...         ...       ...               ...        ...     ...
+8119         k           s         n          f    n               a            c  ...         p          o           o         p                 b          c       l
+8120         x           s         n          f    n               a            c  ...         p          n           o         p                 b          v       l
+8121         f           s         n          f    n               a            c  ...         p          o           o         p                 b          c       l
+8122         k           y         n          f    y               f            c  ...         p          w           o         e                 w          v       l
+8123         x           s         n          f    n               a            c  ...         p          o           o         p                 o          c       l
+
+[8124 rows x 22 columns]
+0       p
+1       e
+2       e
+3       p
+4       e
+       ..
+8119    e
+8120    e
+8121    e
+8122    p
+8123    e
+Name: class, Length: 8124, dtype: category
+Categories (2, object): ['e', 'p']
